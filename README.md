@@ -1,5 +1,3 @@
-# Registration and login forms. 
-A user dashboard to display user information. 
-Used html, css and php. 
-Flask coming soon.
-Django too.
+# Pawns
+A Python flask webapp for a chess game.
+I want to monitor where the model's attention is when it makes a move probably using saliency or probing( or both).
